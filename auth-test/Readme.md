@@ -55,3 +55,12 @@ Este proyecto es un ejemplo básico de backend para autenticación de usuarios u
 
 **Respuesta (JSON):**
 ```{ "success": "Login successful" }```
+
+**Version (1.0.1):**
+
+#Descripción
+
+Se le agrego al proceso de authenticacion el hash de la contraseña antes de guardarla en la base de datos.
+
+#Características implementadas
+Las caracteristicas se mantienen pero añadiendo el hash de la contraseña antes de guardarla en la base de datos para mayor seguridad.

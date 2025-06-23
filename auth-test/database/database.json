@@ -11,6 +11,12 @@
       "username": "misaint",
       "email": "test@gmail.com",
       "password": "123test"
+    },
+    {
+      "id": 1750713681425,
+      "username": "New User",
+      "email": "test@gmail.com",
+      "password": "$2b$16$WKnp60k8UkPUqxwrLMdbSOOEGOc.0qb2oUq8uzdZuCey74o60Uf6u"
     }
   ]
 }
